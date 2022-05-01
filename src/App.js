@@ -70,18 +70,18 @@ function App() {
         <h1>COMP 426 Points</h1>
       </div>
       <form>
-            <input type="text" id="a00" placeholder="a00" /><br/><br/>
-            <input type="text" id="a01" placeholder="a01" /><br/><br/>
-            <input type="text" id="a02" placeholder="a02" /><br/><br/>
-            <input type="text" id="a03" placeholder="a03" /><br/><br/>
-            <input type="text" id="a04" placeholder="a04" /><br/><br/>
-            <input type="text" id="a05" placeholder="a05" /><br/><br/>
-            <input type="text" id="a99" placeholder="a99 (Final Project)" /><br/><br/>
-            <input type="text" id="e01" placeholder="e01" /><br/><br/>
-            <input type="text" id="e02" placeholder="e02" /><br/><br/>
-            <input type="text" id="as1" placeholder="First Questionnaire"/><br/><br/>
-            <input type="text" id="as2" placeholder="Second Questionnaire"/><br/><br/>
-            <input type="text" id="as3" placeholder="Second Questionnaire"/><br/><br/>
+            <input type="text" id="a00" placeholder="a00 points" /><br/><br/>
+            <input type="text" id="a01" placeholder="a01 points" /><br/><br/>
+            <input type="text" id="a02" placeholder="a02 points" /><br/><br/>
+            <input type="text" id="a03" placeholder="a03 points" /><br/><br/>
+            <input type="text" id="a04" placeholder="a04 points" /><br/><br/>
+            <input type="text" id="a05" placeholder="a05 points" /><br/><br/>
+            <input type="text" id="a99" placeholder="a99 (Final Project) points" /><br/><br/>
+            <input type="text" id="e01" placeholder="e01 points" /><br/><br/>
+            <input type="text" id="e02" placeholder="e02 points" /><br/><br/>
+            <input type="text" id="as1" placeholder="First Questionnaire points"/><br/><br/>
+            <input type="text" id="as2" placeholder="Second Questionnaire points"/><br/><br/>
+            <input type="text" id="as3" placeholder="Third Questionnaire points"/><br/><br/>
             <input type="text" id="commits" placeholder="Number of Commits"/><br/><br/>
             <button onClick={Add}>Add</button>
             <button onClick={Clear}>Clear</button>
